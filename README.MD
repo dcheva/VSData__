@@ -4,4 +4,5 @@
 # VSData GitHub repo 
 
 - Switch to new repo due to LFS restrictions (its terrible but)
+- old repo at https://github.com/dcheva/VintagestoryData_/tree/initial
 
