@@ -1,6 +1,7 @@
 # VintagestoryData GitHub repo 
 
 - Add clientsettings.blank and start streaming test
-# VintagestoryData GitHub repo 
 # VSData GitHub repo 
-# VSData GitHub repo 
+
+- Switch to new repo due to LFS restrictions (its terrible but)
+
